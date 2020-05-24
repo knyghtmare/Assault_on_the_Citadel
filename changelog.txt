@@ -1,0 +1,11 @@
+CHANGELOG v1.0.1
+
+version 1.0.1
+--> Removed Jinx Beasts as recruits as they are bugged
+--> Increased number of turns on all difficulties
+--> Side 2 is now given to the player to control
+--> Clarified the objectives
+--> adjusted AI parameters of certain sides
+
+version 1.0.0
+--> Initial Release
