@@ -1,4 +1,9 @@
-CHANGELOG v1.0.1
+CHANGELOG v1.0.2
+
+version 1.0.2
+--> Revised Scenario
+--> Edited enemy wave compositions
+--> Adjusted the ToD schedule against the players
 
 version 1.0.1
 --> Removed Jinx Beasts as recruits as they are bugged
