@@ -1,4 +1,7 @@
-CHANGELOG v1.0.2
+CHANGELOG v1.0.3
+
+version 1.0.3
+--> more revisions
 
 version 1.0.2
 --> Revised Scenario
