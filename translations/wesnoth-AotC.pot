@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-04-19 07:43 UTC\n"
+"POT-Creation-Date: 2021-04-19 07:46 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -162,7 +162,7 @@ msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
 #: Assault_on_the_Citadel\_main.cfg:17
-msgid "Aid the Windsong in vanquishing a source of evil\\n(Intermediate Level, 1 scenario.)"
+msgid "A detachment of the Alliance of Irdya's forces, compromised of Dunefolk and Windsong, has been sent into the heart of the deep jungles of the Old Continent in search of an item of incredible power... (Intermediate Level, 1 scenario.)"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
