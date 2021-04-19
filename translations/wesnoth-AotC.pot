@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-04-19 07:43 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [part]
+#: Assault_on_the_Citadel\scenarios\main.cfg:32
+msgid "Introduction"
+msgstr ""
+
+#. [part]
+#: Assault_on_the_Citadel\scenarios\main.cfg:34
+msgid "A detachment of the Alliance of Irdya's forces, compromised of Dunefolk and Windsong, has been sent into the heart of the deep jungles of the Old Continent in search of an item of incredible power..."
+msgstr ""
+
+#. [side]: id=Shafi, type=Dune Warmaster
+#: Assault_on_the_Citadel\scenarios\main.cfg:47
+msgid "Shafi"
+msgstr ""
+
+#. [side]: id=Shafi, type=Dune Warmaster
+#: Assault_on_the_Citadel\scenarios\main.cfg:50
+msgid "team_name^Dunefolk"
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:79
+msgid "I see that I have been bested."
+msgstr ""
+
+#. [side]: id=Sauda, type=Warmonger
+#: Assault_on_the_Citadel\scenarios\main.cfg:100
+msgid "Sauda"
+msgstr ""
+
+#. [side]: id=Sauda, type=Warmonger
+#: Assault_on_the_Citadel\scenarios\main.cfg:103
+msgid "team_name^Windsong"
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:133
+msgid "Oh, no! I have failed my mission!"
+msgstr ""
+
+#. [side]: id=Minotaur_Lord, type=Minotaur Overlord
+#: Assault_on_the_Citadel\scenarios\main.cfg:225
+msgid "team_name^Minotaurs"
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:263
+msgid "The minotaurs have been vanquished!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Assault_on_the_Citadel\scenarios\main.cfg:326
+msgid "Cleanse the valley of any malignant presence"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Assault_on_the_Citadel\scenarios\main.cfg:330
+msgid "Death of Shafi"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Assault_on_the_Citadel\scenarios\main.cfg:334
+msgid "Death of Sauda"
+msgstr ""
+
+#. [note]
+#: Assault_on_the_Citadel\scenarios\main.cfg:344
+msgid "You will receive gold for enemy unit killed."
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:354
+msgid "We have arrived."
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:359
+msgid "This forest looks cursed. Even this dense darkened mist seems unnatural."
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:364
+msgid "Let us mobilise our forces then. Be prepared for anything."
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:411
+msgid "They do not seem to be friendly."
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:430
+msgid "It appears as though the myths are real. These forests are indeed the home of nightmares and other aberrations."
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:449
+msgid "Nightmares and Aberrations! We must defeat them at all costs!"
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:468
+msgid "Wait, we are not your enemies!"
+msgstr ""
+
+#. [message]: speaker=Minotaur_Lord
+#: Assault_on_the_Citadel\scenarios\main.cfg:472
+msgid "All trespassers must be vanquished!"
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:484
+msgid "Sauda, have you noticed how quickly the day passes by in comparison to the night?"
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:488
+msgid "Yes, I have. Darkness has a strong presence within the proximity. I wonder what vile magic must be at work here."
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:492
+msgid "The Windsong are unaffected by the time of day, but your troops seem to be at a disadvantage, Sir Shafi."
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:501
+msgid "This valley is ours now!"
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:505
+msgid "Let us advance further and continue our search!"
+msgstr ""
+
+#. [message]: speaker=Shafi
+#: Assault_on_the_Citadel\scenarios\main.cfg:519
+msgid "We have been overwhelmed by hostile forces!"
+msgstr ""
+
+#. [message]: speaker=Sauda
+#: Assault_on_the_Citadel\scenarios\main.cfg:523
+msgid "Dammit! We must retreat! This quest is over!"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:10
+msgid "Assault on the Citadel"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:17
+msgid "Aid the Windsong in vanquishing a source of evil\\n(Intermediate Level, 1 scenario.)"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:20
+msgid "Squire"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:20
+msgid "Beginner"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:21
+msgid "Knight"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:21
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:22
+msgid "Lord"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:22
+msgid "Challenging"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel\_main.cfg:24
+msgid "The End"
+msgstr ""
+
+#. [about]
+#: Assault_on_the_Citadel\_main.cfg:29
+msgid "Author and Scenario Designer"
+msgstr ""
+
+#. [entry]
+#: Assault_on_the_Citadel\_main.cfg:31
+msgid "Tahsin Jahin Khalid (Lord-Knyghtmare)"
+msgstr ""
+
