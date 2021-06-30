@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-04-19 07:46 UTC\n"
+"POT-Creation-Date: 2021-06-30 16:58 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,203 +10,246 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. [set_menu_item]: id=leader_control_option_{SIDE}_freeze_on
+#: Assault_on_the_Citadel/macros/ai_leader_controller.cfg:148
+msgid "Tell $stored_leader.name not to move."
+msgstr ""
+
+#. [set_menu_item]: id=leader_control_option_{SIDE}_freeze_off
+#: Assault_on_the_Citadel/macros/ai_leader_controller.cfg:171
+msgid "Allow $stored_leader.name to move."
+msgstr ""
+
+#. [set_menu_item]: id=leader_control_option_{SIDE}_target_on
+#: Assault_on_the_Citadel/macros/ai_leader_controller.cfg:193
+msgid "Tell $stored_leader.name to move here."
+msgstr ""
+
+#. [set_menu_item]: id=leader_control_option_{SIDE}_target_off
+#: Assault_on_the_Citadel/macros/ai_leader_controller.cfg:258
+msgid "Cancel $stored_leader.name|'s movement order."
+msgstr ""
+
 #. [part]
-#: Assault_on_the_Citadel\scenarios\main.cfg:32
+#: Assault_on_the_Citadel/scenarios/main.cfg:32
 msgid "Introduction"
 msgstr ""
 
 #. [part]
-#: Assault_on_the_Citadel\scenarios\main.cfg:34
+#: Assault_on_the_Citadel/scenarios/main.cfg:34
 msgid "A detachment of the Alliance of Irdya's forces, compromised of Dunefolk and Windsong, has been sent into the heart of the deep jungles of the Old Continent in search of an item of incredible power..."
 msgstr ""
 
 #. [side]: id=Shafi, type=Dune Warmaster
-#: Assault_on_the_Citadel\scenarios\main.cfg:47
+#: Assault_on_the_Citadel/scenarios/main.cfg:47
 msgid "Shafi"
 msgstr ""
 
 #. [side]: id=Shafi, type=Dune Warmaster
-#: Assault_on_the_Citadel\scenarios\main.cfg:50
+#: Assault_on_the_Citadel/scenarios/main.cfg:50
 msgid "team_name^Dunefolk"
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:79
+#: Assault_on_the_Citadel/scenarios/main.cfg:79
 msgid "I see that I have been bested."
 msgstr ""
 
 #. [side]: id=Sauda, type=Warmonger
-#: Assault_on_the_Citadel\scenarios\main.cfg:100
+#: Assault_on_the_Citadel/scenarios/main.cfg:100
 msgid "Sauda"
 msgstr ""
 
 #. [side]: id=Sauda, type=Warmonger
-#: Assault_on_the_Citadel\scenarios\main.cfg:103
+#: Assault_on_the_Citadel/scenarios/main.cfg:103
 msgid "team_name^Windsong"
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:133
+#: Assault_on_the_Citadel/scenarios/main.cfg:142
 msgid "Oh, no! I have failed my mission!"
 msgstr ""
 
+#. [side]
+#: Assault_on_the_Citadel/scenarios/main.cfg:161
+#: Assault_on_the_Citadel/scenarios/main.cfg:183
+#: Assault_on_the_Citadel/scenarios/main.cfg:205
+msgid "Nightmares"
+msgstr ""
+
 #. [side]: id=Minotaur_Lord, type=Minotaur Overlord
-#: Assault_on_the_Citadel\scenarios\main.cfg:225
+#: Assault_on_the_Citadel/scenarios/main.cfg:234
 msgid "team_name^Minotaurs"
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:263
+#: Assault_on_the_Citadel/scenarios/main.cfg:272
 msgid "The minotaurs have been vanquished!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Assault_on_the_Citadel\scenarios\main.cfg:326
+#: Assault_on_the_Citadel/scenarios/main.cfg:335
 msgid "Cleanse the valley of any malignant presence"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Assault_on_the_Citadel\scenarios\main.cfg:330
+#: Assault_on_the_Citadel/scenarios/main.cfg:339
 msgid "Death of Shafi"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Assault_on_the_Citadel\scenarios\main.cfg:334
+#: Assault_on_the_Citadel/scenarios/main.cfg:343
 msgid "Death of Sauda"
 msgstr ""
 
 #. [note]
-#: Assault_on_the_Citadel\scenarios\main.cfg:344
+#: Assault_on_the_Citadel/scenarios/main.cfg:353
 msgid "You will receive gold for enemy unit killed."
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:354
+#: Assault_on_the_Citadel/scenarios/main.cfg:363
 msgid "We have arrived."
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:359
+#: Assault_on_the_Citadel/scenarios/main.cfg:368
 msgid "This forest looks cursed. Even this dense darkened mist seems unnatural."
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:364
+#: Assault_on_the_Citadel/scenarios/main.cfg:373
 msgid "Let us mobilise our forces then. Be prepared for anything."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: Assault_on_the_Citadel/scenarios/main.cfg:379
+msgid "Right-click anywhere on the map to fixate where your allied AI leader should move to."
+msgstr ""
+
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:411
+#: Assault_on_the_Citadel/scenarios/main.cfg:426
 msgid "They do not seem to be friendly."
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:430
+#: Assault_on_the_Citadel/scenarios/main.cfg:445
 msgid "It appears as though the myths are real. These forests are indeed the home of nightmares and other aberrations."
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:449
+#: Assault_on_the_Citadel/scenarios/main.cfg:464
 msgid "Nightmares and Aberrations! We must defeat them at all costs!"
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:468
+#: Assault_on_the_Citadel/scenarios/main.cfg:483
 msgid "Wait, we are not your enemies!"
 msgstr ""
 
 #. [message]: speaker=Minotaur_Lord
-#: Assault_on_the_Citadel\scenarios\main.cfg:472
+#: Assault_on_the_Citadel/scenarios/main.cfg:487
 msgid "All trespassers must be vanquished!"
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:484
+#: Assault_on_the_Citadel/scenarios/main.cfg:499
 msgid "Sauda, have you noticed how quickly the day passes by in comparison to the night?"
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:488
+#: Assault_on_the_Citadel/scenarios/main.cfg:503
 msgid "Yes, I have. Darkness has a strong presence within the proximity. I wonder what vile magic must be at work here."
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:492
+#: Assault_on_the_Citadel/scenarios/main.cfg:507
 msgid "The Windsong are unaffected by the time of day, but your troops seem to be at a disadvantage, Sir Shafi."
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:501
+#: Assault_on_the_Citadel/scenarios/main.cfg:516
 msgid "This valley is ours now!"
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:505
+#: Assault_on_the_Citadel/scenarios/main.cfg:520
 msgid "Let us advance further and continue our search!"
 msgstr ""
 
 #. [message]: speaker=Shafi
-#: Assault_on_the_Citadel\scenarios\main.cfg:519
+#: Assault_on_the_Citadel/scenarios/main.cfg:534
 msgid "We have been overwhelmed by hostile forces!"
 msgstr ""
 
 #. [message]: speaker=Sauda
-#: Assault_on_the_Citadel\scenarios\main.cfg:523
+#: Assault_on_the_Citadel/scenarios/main.cfg:538
 msgid "Dammit! We must retreat! This quest is over!"
 msgstr ""
 
+#. [floating_text]
+#: Assault_on_the_Citadel/scenarios/main.cfg:557
+#: Assault_on_the_Citadel/scenarios/main.cfg:578
+msgid "<span color='yellow'>+{ON_DIFFICULTY 12 10 8} gold</span>"
+msgstr ""
+
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:10
+#: Assault_on_the_Citadel/_main.cfg:10
 msgid "Assault on the Citadel"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:17
+#: Assault_on_the_Citadel/_main.cfg:11
+msgid "AotC"
+msgstr ""
+
+#. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
+#: Assault_on_the_Citadel/_main.cfg:17
 msgid "A detachment of the Alliance of Irdya's forces, compromised of Dunefolk and Windsong, has been sent into the heart of the deep jungles of the Old Continent in search of an item of incredible power... (Intermediate Level, 1 scenario.)"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:20
-msgid "Squire"
+#: Assault_on_the_Citadel/_main.cfg:20
+msgid "Soldier"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:20
-msgid "Beginner"
+#: Assault_on_the_Citadel/_main.cfg:20
+msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:21
-msgid "Knight"
+#: Assault_on_the_Citadel/_main.cfg:21
+msgid "Warrior"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:21
+#: Assault_on_the_Citadel/_main.cfg:21
 msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:22
-msgid "Lord"
+#: Assault_on_the_Citadel/_main.cfg:22
+msgid "Champion"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:22
+#: Assault_on_the_Citadel/_main.cfg:22
 msgid "Challenging"
 msgstr ""
 
 #. [campaign]: id=Assault_on_the_Citadel_UMC_Campaign
-#: Assault_on_the_Citadel\_main.cfg:24
+#: Assault_on_the_Citadel/_main.cfg:24
 msgid "The End"
 msgstr ""
 
 #. [about]
-#: Assault_on_the_Citadel\_main.cfg:29
+#: Assault_on_the_Citadel/_main.cfg:29
 msgid "Author and Scenario Designer"
 msgstr ""
 
 #. [entry]
-#: Assault_on_the_Citadel\_main.cfg:31
+#: Assault_on_the_Citadel/_main.cfg:31
 msgid "Tahsin Jahin Khalid (Lord-Knyghtmare)"
 msgstr ""
 
