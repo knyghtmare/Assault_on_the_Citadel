@@ -1,4 +1,8 @@
-CHANGELOG v1.0.3
+CHANGELOG v1.0.4
+
+version 1.0.4
+--> side 2 is now AI controlled
+--> added the ai controller by beetlenaut
 
 version 1.0.3
 --> more revisions
