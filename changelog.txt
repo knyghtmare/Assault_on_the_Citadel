@@ -1,4 +1,7 @@
-CHANGELOG v1.0.4
+CHANGELOG v1.0.5
+
+version 1.0.5
+--> maintenance release
 
 version 1.0.4
 --> side 2 is now AI controlled
