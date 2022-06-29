@@ -1,4 +1,7 @@
-CHANGELOG v1.0.5
+CHANGELOG v1.0.6
+
+version 1.0.6
+--> maintenance release
 
 version 1.0.5
 --> maintenance release
