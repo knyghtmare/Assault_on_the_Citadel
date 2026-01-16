@@ -1,4 +1,8 @@
-CHANGELOG v1.0.6
+CHANGELOG v1.0.7
+
+version 1.0.7
+--> added achievement
+--> rebalanced to account for 1.19.x balance changes
 
 version 1.0.6
 --> maintenance release
